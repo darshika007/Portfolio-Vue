@@ -1,0 +1,22 @@
+:root{
+    --main-font: sans-serif;
+    --white: #fff;
+    --black: #000;
+    --purple: rgb(128,0,128);
+    --darkpurple: rgb(97, 3, 97);
+    --pink: rgb(255, 0, 127);
+    /* --black: linear-gradient(rgb(128,0,128), rgb(255, 0, 127)); */
+    --lg_pp: linear-gradient(to right, var(--purple), var(--pink)) !important;
+    --borderpink: rgb(245, 157, 201);
+    --resumebg: #f9f9f9;
+    --darkgrey: #555;
+    --lightgrey: #ccc;
+    --servboxtext: #777;
+    --red: red;
+    --lg_ft: linear-gradient(to right, rgb(65, 0, 65), rgb(107, 9, 107));
+
+    --sboxc1: rgb(100, 21, 116);
+
+    --stickybg: rgb(199, 13, 106);
+}
+
